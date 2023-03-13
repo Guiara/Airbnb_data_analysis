@@ -8,7 +8,7 @@
 
 ## Análise de dados AirBnB
 
-Neste projeto vamos analisar os dados da cidade de Nova York disponíveis no [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+Neste projeto vamos analisar os dados da cidade de Nova York disponíveis no [Inside Airbnb](http://insideairbnb.com/get-the-data.html)- neste link você poderá encontrar outros *dataset* para diversas outras cidades. Caso queira usar o mesmo *dataset* que eu usei, o mesmo está disnível neste repositório [AirbNb_NY](https://github.com/Guiara/Airbnb_data_analysis/blob/main/airbnb_ny.csv)
 
 
 
