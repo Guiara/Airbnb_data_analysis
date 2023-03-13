@@ -8,7 +8,8 @@
 
 ## Análise de dados AirBnB
 
-Neste projeto...
+Neste projeto vamos analisar os dados da cidade de Nova York disponíveis no [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
+
 
 
 
